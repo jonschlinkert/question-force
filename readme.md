@@ -1,6 +1,6 @@
 # question-force [![NPM version](https://img.shields.io/npm/v/question-force.svg)](https://www.npmjs.com/package/question-force) [![Build Status](https://img.shields.io/travis/jonschlinkert/question-force.svg)](https://travis-ci.org/jonschlinkert/question-force)
 
-> question-store plugin that adds a `force` method to easily force questions with stored answers to be re-asked.
+> Plugin for question-store that adds a `force` method for easily forcing questions with stored answers to be re-asked.
 
 ## Install
 
@@ -62,7 +62,7 @@ Pull requests and stars are always welcome. For bugs and feature requests, [plea
 **Jon Schlinkert**
 
 * [github/jonschlinkert](https://github.com/jonschlinkert)
-* [twitter/doowb](http://twitter.com/doowb)
+* [twitter/jonschlinkert](http://twitter.com/jonschlinkert)
 
 ## License
 
